@@ -1,0 +1,33 @@
+[ {
+  "UserRole" : "Omni Administrator",
+  "UserName" : "automation.shaip+1@shaip.com",
+  "Password" : "Test@123"
+}, {
+  "UserRole" : "Tenant Owner",
+  "UserName" : "automation.shaip+2@shaip.com",
+  "Password" : "Test@123"
+}, {
+  "UserRole" : "Tenant Administrator",
+  "UserName" : "automation.shaip+3@shaip.com",
+  "Password" : "Test@123"
+}, {
+  "UserRole" : "Busines Manager",
+  "UserName" : "automation.shaip+4@shaip.com",
+  "Password" : "Test@123"
+}, {
+  "UserRole" : "Project Manager",
+  "UserName" : "automation.shaip+5@shaip.com",
+  "Password" : "Test@123"
+}, {
+  "UserRole" : "Project Coordinator",
+  "UserName" : "automation.shaip+6@shaip.com",
+  "Password" : "Test@123"
+}, {
+  "UserRole" : "Customer Administrator",
+  "UserName" : "automation.shaip+12@shaip.com",
+  "Password" : "Test@123"
+}, {
+  "UserRole" : "Vendor Administrator",
+  "UserName" : "automation.shaip+13@shaip.com",
+  "Password" : "Test@123"
+} ]

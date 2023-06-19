@@ -1,0 +1,26 @@
+[ {
+  "Sr No" : "1",
+  "UserRole" : "Contributor",
+  "UserName" : "automation.shaip+7@shaip.com",
+  "Password" : "Test@123"
+}, {
+  "Sr No" : "2",
+  "UserRole" : "Freelancer",
+  "UserName" : "automation.shaip+8@shaip.com",
+  "Password" : "Test@123"
+}, {
+  "Sr No" : "3",
+  "UserRole" : "Customer Contributor",
+  "UserName" : "automation.shaip+10@shaip.com",
+  "Password" : "Test@123"
+}, {
+  "Sr No" : "4",
+  "UserRole" : "Vendor Contributor",
+  "UserName" : "automation.shaip+11@shaip.com",
+  "Password" : "Test@123"
+}, {
+  "Sr No" : "5",
+  "UserRole" : "Omni Administrator",
+  "UserName" : "automation.shaip+1@shaip.com",
+  "Password" : "Test@123"
+} ]

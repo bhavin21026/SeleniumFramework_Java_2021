@@ -1,0 +1,19 @@
+[ {
+  "Sr No" : "1",
+  "TestName" : "with \"Blank password field\"",
+  "UserName" : "automation.shaip+7@shaip.com",
+  "Password" : "",
+  "Enum" : "password"
+}, {
+  "Sr No" : "2",
+  "TestName" : "with \"Blank username field\"",
+  "UserName" : "",
+  "Password" : "Test@12345",
+  "Enum" : "email"
+}, {
+  "Sr No" : "3",
+  "TestName" : "with \"Blank username and blank password field\"",
+  "UserName" : "",
+  "Password" : "",
+  "Enum" : "both"
+} ]

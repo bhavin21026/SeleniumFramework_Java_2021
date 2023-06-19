@@ -1,0 +1,64 @@
+[ {
+  "Sr No" : "1",
+  "FirstName" : "",
+  "LastName" : "QA",
+  "Email" : "automation.shaip+blabla@gmail.com",
+  "Password" : "Test@12345",
+  "Cpassword" : "Test@12345",
+  "Country" : "India",
+  "Enum" : "First Name"
+}, {
+  "Sr No" : "2",
+  "FirstName" : "Autoamtion",
+  "LastName" : "",
+  "Email" : "automation.shaip+blabla@gmail.com",
+  "Password" : "Test@12346",
+  "Cpassword" : "Test@12346",
+  "Country" : "India",
+  "Enum" : "Last Name"
+}, {
+  "Sr No" : "3",
+  "FirstName" : "Autoamtion",
+  "LastName" : "QA",
+  "Email" : "",
+  "Password" : "Test@12347",
+  "Cpassword" : "Test@12347",
+  "Country" : "India",
+  "Enum" : "Email"
+}, {
+  "Sr No" : "4",
+  "FirstName" : "Autoamtion",
+  "LastName" : "QA",
+  "Email" : "automation.shaip+blabla@gmail.com",
+  "Password" : "",
+  "Cpassword" : "",
+  "Country" : "India",
+  "Enum" : "Password"
+}, {
+  "Sr No" : "5",
+  "FirstName" : "Autoamtion",
+  "LastName" : "QA",
+  "Email" : "automation.shaip+blabla@gmail.com",
+  "Password" : "",
+  "Cpassword" : "",
+  "Country" : "India",
+  "Enum" : "Confirm password"
+}, {
+  "Sr No" : "6",
+  "FirstName" : "Autoamtion",
+  "LastName" : "QA",
+  "Email" : "automation.shaip+blabla@gmail.com",
+  "Password" : "Test@12350",
+  "Cpassword" : "Test@12350",
+  "Country" : "",
+  "Enum" : "Country"
+}, {
+  "Sr No" : "7",
+  "FirstName" : "",
+  "LastName" : "",
+  "Email" : "",
+  "Password" : " ",
+  "Cpassword" : " ",
+  "Country" : "",
+  "Enum" : "All"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "UserRole" : "Omni Administrator",
+  "UserName" : "automation.shaip+1@shaip.com",
+  "Password" : "Test@123",
+  "Permission" : "Yes"
+}, {
+  "UserRole" : "Tenant Owner",
+  "UserName" : "automation.shaip+2@shaip.com",
+  "Password" : "Test@123",
+  "Permission" : "Yes"
+}, {
+  "UserRole" : "Tenant Administrator",
+  "UserName" : "automation.shaip+3@shaip.com",
+  "Password" : "Test@123",
+  "Permission" : "Yes"
+}, {
+  "UserRole" : "Project Manager",
+  "UserName" : "automation.shaip+5@shaip.com",
+  "Password" : "Test@123",
+  "Permission" : "Yes"
+} ]
