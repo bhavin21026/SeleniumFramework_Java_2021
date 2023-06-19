@@ -67,10 +67,10 @@ public final class FrameworkContstants {
 
 	//AmazoneS3
 	
-	private static final String AccessKeyAmazoneS3 = "AKIA6HMMK2U2YDHLJULZ";
-	private static final String SecreatKeyAmazoneS3 = "F3uaoUH8CqMfjdnRHHlBHbRm9908JBTrsT8LQa1H";
-	private static final String BucketNameAmazoneS3 = "qa-shaipcloud-bucket";
-	private static final String FolderNameAmazoneS3 = "cloud-sync-test/AutomationFilesDontChange/Automation-Mono-All/";
+	private static final String AccessKeyAmazoneS3 = "AKIA6HMMKddvcccv2U2YDHLJULZ";
+	private static final String SecreatKeyAmazoneS3 = "F3uaoUH8CqdvvdvdvMfjdnRHHlBHbRm9908JBTrsT8LQa1H";
+	private static final String BucketNameAmazoneS3 = "qa-shaipcloud-bucketvdvv";
+	private static final String FolderNameAmazoneS3 = "cloud-sync-test/AutomationFilesDontChange/Automation-Monovdvdv-All/";
 			
 			
 	public static String getAccessKeyAmazoneS3() {
